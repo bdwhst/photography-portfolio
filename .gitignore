@@ -1,0 +1,5 @@
+node_modules
+dist
+.DS_Store
+# 源图只留在本机，不进仓库
+photos-src/

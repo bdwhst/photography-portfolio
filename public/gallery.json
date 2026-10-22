@@ -1,0 +1,569 @@
+{
+  "site": {
+    "title": {
+      "zh": "杨焓",
+      "en": "Han Yang"
+    },
+    "subtitle": {
+      "zh": "摄影作品集",
+      "en": "Photography"
+    },
+    "about": {
+      "zh": "程序员，摄影师，攀岩者。",
+      "en": "Programmer. Photographer. Rock climber."
+    },
+    "email": "",
+    "links": [],
+    "copyright": {
+      "zh": "© 2026 杨焓",
+      "en": "© 2026 Han Yang"
+    }
+  },
+  "layout": {
+    "mode": "masonry",
+    "columns": 3,
+    "gap": 16,
+    "rowHeight": 320,
+    "radius": 0,
+    "maxWidth": 1400
+  },
+  "output": {
+    "format": "jpeg",
+    "quality": 82,
+    "maxSize": 1600,
+    "thumbSize": 800,
+    "watermark": "© Han Yang",
+    "watermarkOpacity": 0.45,
+    "copyright": "© Han Yang",
+    "artist": "Han Yang"
+  },
+  "protect": true,
+  "categories": {
+    "Plants": {
+      "zh": "Plants",
+      "en": "Plants"
+    },
+    "Ocean": {
+      "zh": "Ocean",
+      "en": "Ocean"
+    },
+    "Animals": {
+      "zh": "Animals",
+      "en": "Animals"
+    },
+    "Golden Hour": {
+      "zh": "Golden Hour",
+      "en": "Golden Hour"
+    },
+    "Stars": {
+      "zh": "Stars",
+      "en": "Stars"
+    },
+    "Mountains": {
+      "zh": "Mountains",
+      "en": "Mountains"
+    }
+  },
+  "photos": [
+    {
+      "id": "ocean-dsc5235",
+      "src": "photos/full/ocean-dsc5235.jpg",
+      "thumb": "photos/thumb/ocean-dsc5235.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5235",
+      "caption": "",
+      "tags": [
+        "Ocean",
+        "Mountains"
+      ],
+      "sources": [
+        "_DSC5235.jpg"
+      ],
+      "hash": "581c948c9c528109",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "golden-hour-dsc5286",
+      "src": "photos/full/golden-hour-dsc5286.jpg",
+      "thumb": "photos/thumb/golden-hour-dsc5286.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5286",
+      "caption": "",
+      "tags": [
+        "Golden Hour"
+      ],
+      "sources": [
+        "_DSC5286.jpg"
+      ],
+      "hash": "7d528fe4c686cbda",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc3128",
+      "src": "photos/full/plants-dsc3128.jpg",
+      "thumb": "photos/thumb/plants-dsc3128.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC3128",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC3128.jpg"
+      ],
+      "hash": "43b60f242c8c93da",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc3085",
+      "src": "photos/full/plants-dsc3085.jpg",
+      "thumb": "photos/thumb/plants-dsc3085.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC3085",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC3085.jpg"
+      ],
+      "hash": "e32326daa26cd00a",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc3191-已增强-nr",
+      "src": "photos/full/plants-dsc3191-已增强-nr.jpg",
+      "thumb": "photos/thumb/plants-dsc3191-已增强-nr.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC3191-已增强-NR",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC3191-已增强-NR.jpg"
+      ],
+      "hash": "d9aa7d5a4d7e6b66",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "mountains-mg-1744",
+      "src": "photos/full/mountains-mg-1744.jpg",
+      "thumb": "photos/thumb/mountains-mg-1744.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_MG_1744",
+      "caption": "",
+      "tags": [
+        "Mountains"
+      ],
+      "sources": [
+        "_MG_1744.jpg"
+      ],
+      "hash": "d1fe9f24e0790ce4",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc5810",
+      "src": "photos/full/plants-dsc5810.jpg",
+      "thumb": "photos/thumb/plants-dsc5810.jpg",
+      "w": 1600,
+      "h": 1066,
+      "title": "_DSC5810",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "outputHash": "39fe9fda",
+      "sources": [
+        "_DSC5810.jpg"
+      ],
+      "hash": "e5be9152e00eef5a"
+    },
+    {
+      "id": "ocean-dsc5680",
+      "src": "photos/full/ocean-dsc5680.jpg",
+      "thumb": "photos/thumb/ocean-dsc5680.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5680",
+      "caption": "",
+      "tags": [
+        "Ocean",
+        "Golden Hour"
+      ],
+      "sources": [
+        "_DSC5680.jpg"
+      ],
+      "hash": "6270431fac8811fc",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "golden-hour-mg-1640",
+      "src": "photos/full/golden-hour-mg-1640.jpg",
+      "thumb": "photos/thumb/golden-hour-mg-1640.jpg",
+      "w": 1600,
+      "h": 1066,
+      "title": "_MG_1640",
+      "caption": "",
+      "tags": [
+        "Golden Hour",
+        "Mountains"
+      ],
+      "sources": [
+        "_MG_1640.jpg"
+      ],
+      "hash": "92e3e44e6f74f5ed",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "ocean-dsc5281",
+      "src": "photos/full/ocean-dsc5281.jpg",
+      "thumb": "photos/thumb/ocean-dsc5281.jpg",
+      "w": 1600,
+      "h": 1066,
+      "title": "_DSC5281",
+      "caption": "",
+      "tags": [
+        "Ocean",
+        "Mountains"
+      ],
+      "sources": [
+        "_DSC5281.jpg"
+      ],
+      "hash": "e429e77a2eaa24ff",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "ocean-dsc4408",
+      "src": "photos/full/ocean-dsc4408.jpg",
+      "thumb": "photos/thumb/ocean-dsc4408.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC4408",
+      "caption": "",
+      "tags": [
+        "Ocean"
+      ],
+      "sources": [
+        "_DSC4408.jpg"
+      ],
+      "hash": "68ba2aa92189bd3b",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "animals-dsc5765",
+      "src": "photos/full/animals-dsc5765.jpg",
+      "thumb": "photos/thumb/animals-dsc5765.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5765",
+      "caption": "",
+      "tags": [
+        "Animals"
+      ],
+      "sources": [
+        "_DSC5765.jpg"
+      ],
+      "hash": "705eb1fc6e9cb5b1",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc5511",
+      "src": "photos/full/plants-dsc5511.jpg",
+      "thumb": "photos/thumb/plants-dsc5511.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC5511",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "outputHash": "39fe9fda",
+      "sources": [
+        "_DSC5511.jpg"
+      ],
+      "hash": "cc5ee2c2be2d3614"
+    },
+    {
+      "id": "golden-hour-mg-2343",
+      "src": "photos/full/golden-hour-mg-2343.jpg",
+      "thumb": "photos/thumb/golden-hour-mg-2343.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_MG_2343",
+      "caption": "",
+      "tags": [
+        "Golden Hour"
+      ],
+      "sources": [
+        "_MG_2343.jpg"
+      ],
+      "hash": "c28a39ce3be8bb5b",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "animals-dsc5215",
+      "src": "photos/full/animals-dsc5215.jpg",
+      "thumb": "photos/thumb/animals-dsc5215.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC5215",
+      "caption": "",
+      "tags": [
+        "Animals",
+        "Ocean"
+      ],
+      "sources": [
+        "_DSC5215.jpg"
+      ],
+      "hash": "d10b44e332ce4d19",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "golden-hour-dsc5348",
+      "src": "photos/full/golden-hour-dsc5348.jpg",
+      "thumb": "photos/thumb/golden-hour-dsc5348.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5348",
+      "caption": "",
+      "tags": [
+        "Golden Hour"
+      ],
+      "sources": [
+        "_DSC5348.jpg"
+      ],
+      "hash": "e988a7020cc4c31f",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc5177",
+      "src": "photos/full/plants-dsc5177.jpg",
+      "thumb": "photos/thumb/plants-dsc5177.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC5177",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC5177.jpg"
+      ],
+      "hash": "4dc1bc5f92029158",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc5515",
+      "src": "photos/full/plants-dsc5515.jpg",
+      "thumb": "photos/thumb/plants-dsc5515.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5515",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "outputHash": "39fe9fda",
+      "sources": [
+        "_DSC5515.jpg"
+      ],
+      "hash": "d2700a9208d0c433"
+    },
+    {
+      "id": "plants-dsc3082",
+      "src": "photos/full/plants-dsc3082.jpg",
+      "thumb": "photos/thumb/plants-dsc3082.jpg",
+      "w": 1066,
+      "h": 1600,
+      "title": "_DSC3082",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC3082.jpg"
+      ],
+      "hash": "20097dd5a685d06d",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "animals-dsc5206",
+      "src": "photos/full/animals-dsc5206.jpg",
+      "thumb": "photos/thumb/animals-dsc5206.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC5206",
+      "caption": "",
+      "tags": [
+        "Animals"
+      ],
+      "sources": [
+        "_DSC5206.jpg"
+      ],
+      "hash": "f51a3425fa9d81a4",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "plants-dsc5619",
+      "src": "photos/full/plants-dsc5619.jpg",
+      "thumb": "photos/thumb/plants-dsc5619.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC5619",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "outputHash": "39fe9fda",
+      "sources": [
+        "_DSC5619.jpg"
+      ],
+      "hash": "5b129db37b887bfc"
+    },
+    {
+      "id": "stars-dsc5497",
+      "src": "photos/full/stars-dsc5497.jpg",
+      "thumb": "photos/thumb/stars-dsc5497.jpg",
+      "w": 1067,
+      "h": 1600,
+      "title": "_DSC5497",
+      "caption": "",
+      "tags": [
+        "Stars"
+      ],
+      "sources": [
+        "_DSC5497.jpg"
+      ],
+      "hash": "db2b3c6089b33c34",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc4061",
+      "src": "photos/full/dsc4061.jpg",
+      "thumb": "photos/thumb/dsc4061.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC4061",
+      "caption": "",
+      "tags": [],
+      "sources": [
+        "_DSC4061.jpg"
+      ],
+      "hash": "8b7c9a0440910df0",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc2456",
+      "src": "photos/full/dsc2456.jpg",
+      "thumb": "photos/thumb/dsc2456.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC2456",
+      "caption": "",
+      "tags": [
+        "Mountains",
+        "Plants"
+      ],
+      "sources": [
+        "_DSC2456.jpg"
+      ],
+      "hash": "c1b18d5f25175b7d",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc3023",
+      "src": "photos/full/dsc3023.jpg",
+      "thumb": "photos/thumb/dsc3023.jpg",
+      "w": 1066,
+      "h": 1600,
+      "title": "_DSC3023",
+      "caption": "",
+      "tags": [
+        "Plants"
+      ],
+      "sources": [
+        "_DSC3023.jpg"
+      ],
+      "hash": "f3c63e8f05a1741c",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc3074",
+      "src": "photos/full/dsc3074.jpg",
+      "thumb": "photos/thumb/dsc3074.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC3074",
+      "caption": "",
+      "tags": [
+        "Animals"
+      ],
+      "sources": [
+        "_DSC3074.jpg"
+      ],
+      "hash": "20bfb51689742993",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc3241",
+      "src": "photos/full/dsc3241.jpg",
+      "thumb": "photos/thumb/dsc3241.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC3241",
+      "caption": "",
+      "tags": [
+        "Animals",
+        "Ocean"
+      ],
+      "sources": [
+        "_DSC3241.jpg"
+      ],
+      "hash": "705c3abcfd618cea",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc3358",
+      "src": "photos/full/dsc3358.jpg",
+      "thumb": "photos/thumb/dsc3358.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC3358",
+      "caption": "",
+      "tags": [
+        "Animals",
+        "Ocean"
+      ],
+      "sources": [
+        "_DSC3358.jpg"
+      ],
+      "hash": "d9e8c95dc63a1f24",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc3299",
+      "src": "photos/full/dsc3299.jpg",
+      "thumb": "photos/thumb/dsc3299.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC3299",
+      "caption": "",
+      "tags": [
+        "Animals",
+        "Ocean"
+      ],
+      "sources": [
+        "_DSC3299.jpg"
+      ],
+      "hash": "02b4b01d136cf772",
+      "outputHash": "39fe9fda"
+    }
+  ]
+}
