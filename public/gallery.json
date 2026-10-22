@@ -564,6 +564,51 @@
       ],
       "hash": "02b4b01d136cf772",
       "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc0919",
+      "src": "photos/full/dsc0919.jpg",
+      "thumb": "photos/thumb/dsc0919.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC0919",
+      "caption": "",
+      "tags": [],
+      "sources": [
+        "_DSC0919.jpg"
+      ],
+      "hash": "206eb17ee5ee731f",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc1543",
+      "src": "photos/full/dsc1543.jpg",
+      "thumb": "photos/thumb/dsc1543.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC1543",
+      "caption": "",
+      "tags": [],
+      "sources": [
+        "_DSC1543.jpg"
+      ],
+      "hash": "d4cccc930ad3a023",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc2257",
+      "src": "photos/full/dsc2257.jpg",
+      "thumb": "photos/thumb/dsc2257.jpg",
+      "w": 1600,
+      "h": 1067,
+      "title": "_DSC2257",
+      "caption": "",
+      "tags": [],
+      "sources": [
+        "_DSC2257.jpg"
+      ],
+      "hash": "687b10343b72dfe4",
+      "outputHash": "39fe9fda"
     }
   ]
 }
