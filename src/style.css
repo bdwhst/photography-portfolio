@@ -128,7 +128,16 @@ html[lang="en"] .chip, html[lang="en"] .links { letter-spacing: 0.06em; }
   opacity: 0; pointer-events: none; transition: opacity 0.25s;
 }
 .lightbox.open { opacity: 1; pointer-events: auto; }
-.lightbox img { max-width: calc(100vw - 48px); max-height: calc(100vh - 110px); object-fit: contain; user-select: none; -webkit-user-drag: none; }
+.lightbox .lb-stage { position: absolute; inset: 0; overflow: hidden; }
+.lightbox .lb-stage img {
+  position: absolute; left: 50%; top: 50%;
+  max-width: calc(100vw - 48px); max-height: calc(100vh - 110px); object-fit: contain;
+  user-select: none; -webkit-user-drag: none;
+  transform: translate(calc(-50% + var(--x, 0px)), -50%);
+  will-change: transform;
+}
+.lightbox .lb-stage img.anim { transition: transform 0.42s cubic-bezier(0.22, 0.61, 0.36, 1); }
+.lightbox .lb-btn, .lightbox .counter, .lightbox .cap { z-index: 1; }
 .lightbox .cap { position: absolute; bottom: 24px; left: 0; right: 0; text-align: center; color: #ddd; font-size: 13px; letter-spacing: 0.08em; }
 .lightbox .cap .c { color: #888; margin-left: 12px; }
 .lightbox .counter { position: absolute; top: 22px; left: 28px; color: #777; font-size: 12px; letter-spacing: 0.15em; }
