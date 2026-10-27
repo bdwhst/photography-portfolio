@@ -222,24 +222,6 @@
       "outputHash": "39fe9fda"
     },
     {
-      "id": "ocean-dsc5281",
-      "src": "photos/full/ocean-dsc5281.jpg",
-      "thumb": "photos/thumb/ocean-dsc5281.jpg",
-      "w": 1600,
-      "h": 1066,
-      "title": "_DSC5281",
-      "caption": "",
-      "tags": [
-        "Ocean",
-        "Mountains"
-      ],
-      "sources": [
-        "_DSC5281.jpg"
-      ],
-      "hash": "e429e77a2eaa24ff",
-      "outputHash": "39fe9fda"
-    },
-    {
       "id": "ocean-dsc4408",
       "src": "photos/full/ocean-dsc4408.jpg",
       "thumb": "photos/thumb/ocean-dsc4408.jpg",
@@ -289,23 +271,6 @@
         "_DSC5511.jpg"
       ],
       "hash": "cc5ee2c2be2d3614"
-    },
-    {
-      "id": "golden-hour-mg-2343",
-      "src": "photos/full/golden-hour-mg-2343.jpg",
-      "thumb": "photos/thumb/golden-hour-mg-2343.jpg",
-      "w": 1067,
-      "h": 1600,
-      "title": "_MG_2343",
-      "caption": "",
-      "tags": [
-        "Golden Hour"
-      ],
-      "sources": [
-        "_MG_2343.jpg"
-      ],
-      "hash": "c28a39ce3be8bb5b",
-      "outputHash": "39fe9fda"
     },
     {
       "id": "animals-dsc5215",
@@ -614,6 +579,21 @@
         "_DSC2257.jpg"
       ],
       "hash": "687b10343b72dfe4",
+      "outputHash": "39fe9fda"
+    },
+    {
+      "id": "dsc6098",
+      "src": "photos/full/dsc6098.jpg",
+      "thumb": "photos/thumb/dsc6098.jpg",
+      "w": 1600,
+      "h": 1066,
+      "title": "_DSC6098",
+      "caption": "",
+      "tags": [],
+      "sources": [
+        "_DSC6098.jpg"
+      ],
+      "hash": "6f54d3f811ca90b8",
       "outputHash": "39fe9fda"
     }
   ]
